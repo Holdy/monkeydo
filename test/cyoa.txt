@@ -1,0 +1,10 @@
+Page 1:
+
+[picture of a museum]
+
+You are in a museum, all the lights are off. If you want to find a light switch
+got to page 2, if you want to leave the museum go to page 2.
+
+Page 2:
+
+Welcome to page two. This is the end.

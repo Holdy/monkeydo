@@ -1,0 +1,20 @@
+use the environment http://staging.rainbird.ai.
+use knowledge map 24g0k24g0k240gk20gk204kg24.
+get the api key from RB_API_KEY.
+
+Start a new session.
+
+inject the values:
+   Bob livesIn Cheese.
+
+Use the follow answers when necessary:
+   Cheese nationalLanguage Cheesish.
+
+ask Bob speaks ?
+
+expect the answers:
+    Bob speaks Cheesish 56%.
+
+
+
+
