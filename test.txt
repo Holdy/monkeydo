@@ -1,0 +1,14 @@
+use environment https://staging-api.rainbird.ai.
+use the knowledge map bd990e1a-2d00-49af-babd-b90037be2414.
+get the api key from RB_API_KEY.
+call start.
+
+inject the following facts:
+   bob likes cheese.
+
+expect an error.
+
+inject the following facts:
+   bob dislikes cheese.
+
+

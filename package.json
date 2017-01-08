@@ -1,0 +1,26 @@
+{
+  "name": "monkeydo",
+  "version": "0.0.1",
+  "description": "Scripting - in English!",
+  "main": "monkeydo.js",
+  "preferGlobal": true,
+  "bin" : {
+    "monkeydo": "monkeydo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holdy/monkeydo.git"
+  },
+  "author": "Holdy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Holdy/monkeydo/issues"
+  },
+  "homepage": "https://github.com/Holdy/monkeydo#readme",
+  "dependencies": {
+    "colors": "1.1.x"
+  }
+}
