@@ -1,6 +1,6 @@
 {
   "name": "monkeydo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scripting - in English!",
   "main": "monkeydo.js",
   "preferGlobal": true,
@@ -14,13 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/Holdy/monkeydo.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "Holdy",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Holdy/monkeydo/issues"
-  },
   "homepage": "https://github.com/Holdy/monkeydo#readme",
   "dependencies": {
-    "colors": "1.1.x"
+    "colors": "1.1.x",
+    "yolapi": "0.3.x"
   }
 }

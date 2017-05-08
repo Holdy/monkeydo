@@ -1,14 +1,12 @@
-use environment https://staging-api.rainbird.ai.
-use the knowledge map bd990e1a-2d00-49af-babd-b90037be2414.
+use environment https://test-api.rainbird.ai.
+use the knowledge map aa164697-4975-4c4f-a716-1f2fbbcdd876.
 get the api key from RB_API_KEY.
+
 call start.
 
 inject the following facts:
-   bob likes cheese.
+   LinseysEye speaks English.
 
-expect an error.
 
-inject the following facts:
-   bob dislikes cheese.
-
+ask LinseysEye speaks ?.
 
