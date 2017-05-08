@@ -1,6 +1,6 @@
 {
-  "name": "monkeydo",
-  "version": "0.0.2",
+  "name": "monkeydo-scripting",
+  "version": "0.0.3",
   "description": "Scripting - in English!",
   "main": "monkeydo.js",
   "preferGlobal": true,
