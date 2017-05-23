@@ -1,6 +1,6 @@
 {
   "name": "monkeydo-scripting",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "Scripting - in English!",
   "main": "monkeydo.js",
   "preferGlobal": true,
@@ -21,6 +21,7 @@
   "license": "MIT",
   "homepage": "https://github.com/Holdy/monkeydo#readme",
   "dependencies": {
+    "async" : "2.4.x",
     "colors": "1.1.x",
     "yolapi": "0.3.x"
   }
