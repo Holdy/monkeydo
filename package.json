@@ -1,6 +1,6 @@
 {
   "name": "monkeydo-scripting",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "Scripting - in English!",
   "main": "monkeydo.js",
   "preferGlobal": true,
@@ -23,6 +23,7 @@
   "dependencies": {
     "async" : "2.4.x",
     "colors": "1.1.x",
+    "express": "4.15.x",
     "yolapi": "0.3.x"
   }
 }
